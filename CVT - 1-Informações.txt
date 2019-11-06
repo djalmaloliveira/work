@@ -1,0 +1,11 @@
+CVT versão 2.1.8
+- Este programa funciona com Win7 e Win10 também.
+- Após instalar do programa do CVT, será necessário ter em mãos o login e senha do CVT fornecido pela Copel.
+- Caso em seu micro já havia instalado a versão anterior do CVT, será necessário desinstalar por completo a versão anterior e 
+instalar o programa novo.
+- Ler o arquivo (CVT - 2-Manual Entregue às Instituições.pdf), para conhecer o sistema.
+- Para configurar o programa do CVT, seguir os passos do arquivo (CVT - 3-Manual Configurar o programa do CVT.pdf).
+- Caso após o registro da configuração, apresente alguma mensagem negativa, ligar para nosso Service Desk, Service Desk da Copel - 0800414838.
+- Para criar insformações das doações, criar planilha em (.txt) dentro do próprio programa e enviar este arquivo para copel,
+ler o arquivo (CVT - 4-Manual Cadastrar e enviar arquivos.pdf).
+Telefone da Copel - 08005100116
