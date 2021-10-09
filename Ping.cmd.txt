@@ -33,3 +33,28 @@ Ping P513965 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
 Ping P517909 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
 Ping P517916 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
 Ping P471152 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+
+Ping P518493 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518884 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518885 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518747 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518299 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518569 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518509 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518512 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518674 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518274 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518276 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518675 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518273 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P519642 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518986 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518587 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518503 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P519470 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518718 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518517 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518462 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P519453 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P518812 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+
