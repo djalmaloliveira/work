@@ -1,6 +1,35 @@
-Ping P473951
-Ping P473986
-Ping P451649
-Ping P519726
-Ping P470937
-Ping P451505
+Ping P473951 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P473986 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451649 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P519726 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P470937 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451505 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451534 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451566 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451609 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451653 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451687 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451704 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P451718 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P452175 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P452179 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P452225 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P452252 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P452266 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P452280 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P453526 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P457530 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P457665 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P457677 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P457687 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P457828 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P457864 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P512837 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P512852 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P512918 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P512986 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P513820 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P513965 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P517909 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P517916 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
+Ping P471152 >>\\servmig\dados\x22\win7_win10\PingDesligados.txt
