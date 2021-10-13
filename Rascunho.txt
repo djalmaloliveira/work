@@ -1,0 +1,104 @@
+
+https://www.youtube.com/watch?v=gzo_2EmD5EY
+
+https://openlibrary.org/search?q=circuitos+el%C3%A9tricos&mode=everything
+
+https://www.youtube.com/watch?v=mVaoYJmgi8U
+
+470901
+
+Pelo que observo, tudo teve início com a necessidade de impressão.
+Realmente tivemos problema de impressão no Win7, com isso o usuário se informando
+descobriu que precisava migrar para Win10. Abriu um ticket e foi brevemente 
+atendido pelo Ednilson. Muito bom saber que foi um atendimento além de tudo de qualidade.
+Mas, já corria por fora o planejamento da troca da máquina pela atualização tecnológica.
+Melhor ainda, vai ganhar uma máquina Nova com Win10 sem problema de impressão. 
+Acredito que tenha ficado sim, uma boa impressão de tudo isso.
+
+
+170490
+
+
+PSExec \\192.168.0.103 -u Admin-PC\Administrador -p 12345 \\192.168.0.103\c$\Programas\ccsetup.exe /s
+
+Instalação de programas remotamente pelo CMD ( psexec ) Help Desk
+https://www.youtube.com/watch?v=ncvNajZsz7Y
+
+https://www-slant-co.translate.goog/versus/44/21031/~notepad_vs_crimson-editor?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=nui
+
+
+
+https://www.slant.co/versus/44/21031/~notepad_vs_crimson-editor
+
+
+Licença MATLAB
+
+09806-07443-53955-64350-21751-41297
+
+
+NoteValmir_V03	P458028	Djalma			3000458028 - Desligado
+NoteValmir_V03	P452427	Djalma	 		3000452427 - erro
+NoteValmir_V03	P451649	Djalma			3000451649 - Desligado
+
+Banco Uniprime
+78613841/0001-61
+Associacao Beneficente Evangelica de Londrina
+Valor 165,17
+
+
+Velocidade da conexão (Recepção/Transmissão):	100/100 (Mbps)
+Endereço IPv6:	2804:14d:883:a60f:44cd:99ac:1a93:a06e
+Endereço IPv6 de link local:	fe80::44cd:99ac:1a93:a06e%8
+Servidores DNS IPv6:	2804:14d:1:0:181:213:132:2
+2804:14d:1:0:181:213:132:3
+Endereço IPv4:	192.168.0.54
+Servidores DNS IPv4:	181.213.132.2
+181.213.132.3
+Sufixo DNS Primário:	home
+Fabricante:	Intel
+Descrição:	Intel(R) Ethernet Connection I217-LM
+Versão do driver:	12.19.0.13
+Endereço físico (MAC):	B8-AE-ED-8E-FE-64
+
+
+
+MAC 74 DA 88 AB 57 OE
+
+mODELO TL-WA850RE V.6
+
+OK
+Campo
+Agendado para sábado
+copiado
+desl. 09/09
+Desligado
+Desligou após instalar o Win 10
+Em Contato com o usuário
+Erro - WDSutil.dll
+Erro 0x8007001F - 0x200006
+Erro no HD
+FALHOU EM 3 TENTATIVAS
+Instalando
+Instalando Win10 - Desligado ou Fora Rede
+Ligada pingando mas não aceita conexão
+Maquina enviada em Duplicidade
+não instalou, passar campo
+Sem espaço no HD
+Senha da BIOS
+Servidor Fabricio Vieira - Teams
+Substituído AT6
+Ultimo acesso em 02/07
+Ultimo acesso em 02/08
+Ultimo acesso em 05/07
+Ultimo acesso em 08/04
+Ultimo acesso em 12/07
+Ultimo Acesso em 15/07
+Ultimo acesso em 17/05
+Ultimo Acesso em 19/08
+Ultimo acesso em 22/07
+Ultimo acesso em 24/05
+Ultimo acesso em 26/05
+Ultimo Acesso em 27/07
+Ultimo acesso em 27/07
+Ultimo acesso em 30/03
+Usuário logado
